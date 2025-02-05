@@ -1,0 +1,2 @@
+email - admin@ecyber.com
+password - admin@123
